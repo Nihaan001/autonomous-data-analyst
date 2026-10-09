@@ -1,6 +1,18 @@
+
+# Secrets and environment files
 .env
+.env.*
+!.env.example
+
+# Python environment and cache
 venv/
+.venv/
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Generated files
 temp_chart.png
 *.zip
+
+# Editor
+.vscode/
