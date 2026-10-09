@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+langgraph
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
+streamlit
+fastapi
+uvicorn
+python-dotenv
+python-multipart

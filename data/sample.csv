@@ -1,0 +1,30 @@
+OrderID,Date,Product,Category,Region,Quantity,UnitPrice,Sales,Profit,CustomerAge
+1,2024-01-05,Laptop,Electronics,North,2,800,1600,320,34
+2,2024-01-12,Mouse,Electronics,South,5,25,125,40,28
+3,2024-02-03,Office Chair,Furniture,East,3,150,450,120,45
+4,2024-02-14,T-Shirt,Clothing,West,10,20,200,60,23
+5,2024-03-08,Monitor,Electronics,North,4,300,1200,300,31
+6,2024-03-21,Desk,Furniture,South,2,400,800,240,52
+7,2024-04-02,Keyboard,Electronics,East,6,45,270,80,
+8,2024-04-19,Jeans,Clothing,West,4,60,240,70,29
+9,2024-05-06,Laptop,Electronics,West,1,800,800,200,41
+10,2024-05-25,Bookshelf,Furniture,North,2,220,440,130,38
+11,2024-06-10,Headphones,Electronics,South,3,120,360,100,26
+12,2024-06-18,Jacket,Clothing,East,2,90,180,50,47
+13,2024-07-04,Laptop,Electronics,East,3,800,2400,600,35
+14,2024-07-22,Sofa,Furniture,West,1,700,700,210,55
+15,2024-08-09,Mouse,Electronics,North,8,25,200,60,33
+16,2024-08-27,Shirt,Clothing,South,6,35,210,65,
+17,2024-09-03,Monitor,Electronics,West,2,300,600,150,44
+18,2024-09-15,Table,Furniture,East,2,350,700,200,39
+19,2024-10-01,Laptop,Electronics,North,4,800,3200,800,30
+20,2024-10-20,Sneakers,Clothing,West,3,75,225,70,27
+21,2024-11-05,Headphones,Electronics,South,5,120,600,170,36
+22,2024-11-18,Office Chair,Furniture,North,4,150,600,160,49
+23,2024-11-28,Keyboard,Electronics,East,7,45,315,95,32
+24,2024-12-02,Laptop,Electronics,West,5,800,4000,1000,42
+25,2024-12-10,Jacket,Clothing,North,3,90,270,80,37
+26,2024-12-15,Monitor,Electronics,South,3,300,900,230,46
+27,2024-12-20,Sofa,Furniture,East,2,700,1400,420,58
+28,2024-12-28,T-Shirt,Clothing,West,12,20,240,75,25
+28,2024-12-28,T-Shirt,Clothing,West,12,20,240,75,25
