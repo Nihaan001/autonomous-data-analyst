@@ -107,7 +107,7 @@ Copy the following template into `.env`:
 
 ```env
 GOOGLE_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-3.8-flash
+GEMINI_MODEL=gemini-3.5-flash-lite
 ```
 
 Replace the placeholder with your own valid Google Gemini API key.
