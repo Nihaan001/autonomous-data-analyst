@@ -115,3 +115,8 @@ Replace the placeholder with your own valid Google Gemini API key.
 **Security note:** Never commit your actual `.env` file or API key to GitHub. Keep `.env` listed in `.gitignore` and share only `.env.example` with placeholder values.
 
 ### 6. Run
+   ```bash
+   streamlit run streamlit_app.py
+   ```
+   Open the `Local URL` shown in the terminal, upload a CSV/Excel file
+   (or click **Try the sample dataset**) and ask a question.
